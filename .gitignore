@@ -1,0 +1,5 @@
+# Environments
+prod-env.json
+
+# Build folder
+.aws-sam/*
